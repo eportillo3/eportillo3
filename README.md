@@ -2,9 +2,9 @@
 
 Hi, I'm Erik! I'm a front-end developer who is passionate about tech, building applications, and building a community. 
 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Currently taking a Full Stack Bootcamp.
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼. 
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> and <a href="https://twitter.com/portillovisuals">Twitter</a> 
 
 
 ---

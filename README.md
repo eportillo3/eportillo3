@@ -1,6 +1,6 @@
 # Hello 👋 💻
 
-Hi, I'm Erik! I'm a front-end developer who is passionate about tech, building applications, and building a community. 
+Hi, I'm Erik! I'm a front-end developer who is passionate about tech, building applications, and the Internet. 
 
 - Skills: HTML | CSS | Bootstrap | React | React Native
 - Currently doing a Full Stack Bootcamp <a href="https://careerfoundry.com/">CareerFoundry</a>

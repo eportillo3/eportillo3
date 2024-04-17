@@ -1,4 +1,4 @@
-# Hello 👨🏻‍💻
+# Cybersecurity Professional 👨🏻‍💻
 
 Hi, I'm Erik! I'm a cybersecurity analyst who is passionate about tech, cybersecurity, blockchain, crypto and Web3. 
 

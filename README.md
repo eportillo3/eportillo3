@@ -1,6 +1,6 @@
 # Cybersecurity Professional 👨🏻‍💻
 
-Hi, I'm Erik! I'm a cybersecurity analyst who is passionate about tech, cybersecurity, blockchain, crypto and Web3. 
+Hi, I'm Erik! I'm a cybersecurity analyst who is passionate about tech, cybersecurity, blockchain, crypto and web3. 
 
 - Skills: Python | SQL | Linux |
 - Google Cybersecurity Professional Certificate <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Coursera</a>

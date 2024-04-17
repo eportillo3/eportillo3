@@ -1,7 +1,7 @@
-# Hello 👋 💻
+# Hello 👨🏻‍💻
 
-Hi, I'm Erik! I'm a front-end developer who is passionate about tech, building applications, and the Internet. 
+Hi, I'm Erik! I'm a cybersecurity analyst who is passionate about tech, cybersecurity, blockchain, crypto and Web3. 
 
-- Skills: HTML | CSS | JavaScript | Bootstrap | React | React Native
-- Graduated from a Full Stack Bootcamp <a href="https://careerfoundry.com/">CareerFoundry</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/erik-portillo-25670530/">LinkedIn</a> and <a href="https://twitter.com/portillovisuals">Twitter</a> 
+- Skills: Python | SQL | Linux |
+- Google Cybersecurity Professional Certificate <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Coursera</a>
+- CompTIA Security+ Certification <a href="https://www.comptia.org/certifications/security">CompTIA</a> 
